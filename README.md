@@ -1,5 +1,5 @@
 # 🏫 RuangKu – Aplikasi Booking Ruang Kelas Kampus
-/assets/images/icon_ruangku.png
+![icon_ruangku.png](assets/images/icon_ruangku.png)
 **RuangKu** adalah aplikasi Flutter berbasis Firebase yang memungkinkan dosen melakukan pemesanan ruang kelas dan admin dapat mengelola data ruangan dan user dosen.
 
 ## 🧩 Fitur Utama
@@ -15,7 +15,6 @@
     - Request pemesanan ruang kelas
 
 ## 🛠 Teknologi
-
 - Flutter
 - Firebase Firestore
 - State Management (Provider/Bloc)
