@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "15232945274",
+    "project_id": "ruangku-f6c48",
+    "storage_bucket": "ruangku-f6c48.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15232945274:android:58b939864161b88fa2ffc3",
+        "android_client_info": {
+          "package_name": "id.co.androdevjik.ruangku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARNe2zqDqiRNUjkHflCrNEfJL2nNbLaxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15232945274:android:41e5803a8c796412a2ffc3",
+        "android_client_info": {
+          "package_name": "id.co.androdevjik.sikars"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARNe2zqDqiRNUjkHflCrNEfJL2nNbLaxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
